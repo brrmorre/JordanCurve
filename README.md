@@ -114,10 +114,41 @@ Let SimpleClosedCurve be a simple closed curve in UnitCircle CartesianProduct Un
 ### Proof attempt 1
 The biggest ball that can fit inside of the circle is 1 ball. But you can keep making the ball bigger and bigger... U are allowed infinite balls outside the circle that u can use to shade in outside of the circle.
 
-### proving the theorem
+### proving the theorem attempt
 From any space you can just go to the circle lol.
 If you have a random space, the space has balls associated with it that are the same as the balls around a circle.
 if u have the circle then u have a ball that a piece of the circle falls inside of. that ball maps to a ball in R. This is because the circle is mapped to by R.
 circle: real -> (real,real)
 
 I assume for this theorem u have the one part of the line on the inside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls inside of the circle, the union of all open balls is the interior aka internal balls. u have the one part of the line on the outside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls outside of the circle, the union of all open balls is the exterior aka external balls.
+
+### thoughts from discord
+What we wanna do is show that the interior has the same balls as the interior of a circle
+[09:48]
+And the outside has the same balls as the outside of a circle
+[09:51]
+I bet for the balls on a circle they cant partition the interior or the exterior
+[09:54]
+Rigorously define interior and exterior
+[09:56]
+For the circle, the interior is the union of all the open balls that are less than the radius
+[09:57]
+Fix them with regards to the origin
+[10:00]
+The interior is the union of all the open balls where for such a ball all the points in the ball are less than 1 away from origin using metric(編集済)
+[10:02]
+The exterior is the union of all the open balls where for such a ball all the points in the ball are more than 1 away from origin using metric
+[10:07]
+I wanna talk about the set of all open balls that touch the circle
+[10:07]
+I also wanna talk about the boundary
+[10:10]
+That set is bijected to by the homermorphism
+[10:11]
+To the balls for an arbitrary simpleclosedcurve
+[10:12]
+These maximal curve covers are preserved by homeomorphism
+[10:15]
+We now have an arbitrary simpleclosedcurve and the maximal covering of the simpleclosedcurve
+[10:16]
+I wanna talk about the separations caused by the simpleclosedcurve using my maximal curve cover
