@@ -1,2 +1,0 @@
-# JordanCurve
-Jordan Curve
