@@ -125,32 +125,18 @@ I assume for this theorem u have the one part of the line on the inside of the c
 http://www-groups.mcs.st-andrews.ac.uk/~john/MT4522/Lectures/L19.html#:~:text=Connectedness%20is%20preserved%20by%20homeomorphism,between%20some%20non-homeomorphic%20spaces.&text=The%20spaces%20%5B0%2C%201%5D,of%20R)%20are%20not%20homeomorphic
 
 ### thoughts from discord
-What we wanna do is show that the interior has the same balls as the interior of a circle
-[09:48]
-And the outside has the same balls as the outside of a circle
-[09:51]
-I bet for the balls on a circle they cant partition the interior or the exterior
-[09:54]
-Rigorously define interior and exterior
-[09:56]
-For the circle, the interior is the union of all the open balls that are less than the radius
-[09:57]
-Fix them with regards to the origin
-[10:00]
-The interior is the union of all the open balls where for such a ball all the points in the ball are less than 1 away from origin using metric(編集済)
-[10:02]
-The exterior is the union of all the open balls where for such a ball all the points in the ball are more than 1 away from origin using metric
-[10:07]
-I wanna talk about the set of all open balls that touch the circle
-[10:07]
-I also wanna talk about the boundary
-[10:10]
-That set is bijected to by the homermorphism
-[10:11]
-To the balls for an arbitrary simpleclosedcurve
-[10:12]
-These maximal curve covers are preserved by homeomorphism
-[10:15]
-We now have an arbitrary simpleclosedcurve and the maximal covering of the simpleclosedcurve
-[10:16]
-I wanna talk about the separations caused by the simpleclosedcurve using my maximal curve cover
+- What we wanna do is show that the interior has the same balls as the interior of a circle
+- And the outside has the same balls as the outside of a circle
+- I bet for the balls on a circle they cant partition the interior or the exterior
+- Rigorously define interior and exterior
+- For the circle, the interior is the union of all the open balls that are less than the radius
+- Fix them with regards to the origin
+- The interior is the union of all the open balls where for such a ball all the points in the ball are less than 1 away from origin using metric
+- The exterior is the union of all the open balls where for such a ball all the points in the ball are more than 1 away from origin using metric
+- I wanna talk about the set of all open balls that touch the circle
+- I also wanna talk about the boundary
+- That set is bijected to by the homermorphism
+- To the balls for an arbitrary simpleclosedcurve
+- These maximal curve covers are preserved by homeomorphism
+- We now have an arbitrary simpleclosedcurve and the maximal covering of the simpleclosedcurve
+- I wanna talk about the separations caused by the simpleclosedcurve using my maximal curve cover
