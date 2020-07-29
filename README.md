@@ -140,3 +140,30 @@ http://www-groups.mcs.st-andrews.ac.uk/~john/MT4522/Lectures/L19.html#:~:text=Co
 - These maximal curve covers are preserved by homeomorphism
 - We now have an arbitrary simpleclosedcurve and the maximal covering of the simpleclosedcurve
 - I wanna talk about the separations caused by the simpleclosedcurve using my maximal curve cover
+
+### Ivans proof outline
+Yasbijo今日 06:51
+If you care, using those curve coverings, I believe I've completed the proof.
+
+im sad and brad今日 07:05
+Nice!
+[07:06]
+Put it down somewhere! We should code it in coq!!! 
+[07:08]
+Also u should explain ur proof to me lol
+
+Yasbijo今日 07:35
+To express what defines the interior separation formed by the simple, closed curve J, one need just look at the curve coverings of S that contain S's interior separation. Since we know the homeomorphism on open sets around S pullback to preserve to open sets on J, we just take the intersection of the inverses of the interior containing covering around S. Wala, we now have the interior separation formed via J.
+
+For the exterior, mutatis mutandis, we do the same but slightly different for the exterior separation.
+
+We just need to show that these approaches are actually partitions of R2-J.  Well, I think it's relatively straightforward from there, so I just wanna say proof is left to the reader cause I'm lazy and don't wanna work through the details.(編集済)
+[07:36]
+I'm like.... 80-85% confident in my argument.
+[07:39]
+If we can make it casual, not cut each other off, and manage to be friendly as we usually are, I'm happy to jump on a call or like in the hamham server or whatever is preferred.
+
+im sad and brad今日 07:39
+Nice!
+[07:40]
+I gotta work a bit today but I'll prob have time later today to work on this
