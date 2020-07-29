@@ -122,6 +122,8 @@ circle: real -> (real,real)
 
 I assume for this theorem u have the one part of the line on the inside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls inside of the circle, the union of all open balls is the interior aka internal balls. u have the one part of the line on the outside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls outside of the circle, the union of all open balls is the exterior aka external balls.
 
+http://www-groups.mcs.st-andrews.ac.uk/~john/MT4522/Lectures/L19.html#:~:text=Connectedness%20is%20preserved%20by%20homeomorphism,between%20some%20non-homeomorphic%20spaces.&text=The%20spaces%20%5B0%2C%201%5D,of%20R)%20are%20not%20homeomorphic
+
 ### thoughts from discord
 What we wanna do is show that the interior has the same balls as the interior of a circle
 [09:48]
