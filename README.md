@@ -158,3 +158,6 @@ To express what defines the interior separation formed by the simple, closed cur
 For the exterior, mutatis mutandis, we do the same but slightly different for the exterior separation.
 
 We just need to show that these approaches are actually partitions of R2-J.  Well, I think it's relatively straightforward from there, so I just wanna say proof is left to the reader cause I'm lazy and don't wanna work through the details.(編集済)
+
+### Brads thoughts
+I think what I wanna try doing is taking intersections using our balls and uninioning those intersections to build the interior and exterior out of the balls that we stole from the circle.
