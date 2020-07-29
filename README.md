@@ -158,12 +158,3 @@ To express what defines the interior separation formed by the simple, closed cur
 For the exterior, mutatis mutandis, we do the same but slightly different for the exterior separation.
 
 We just need to show that these approaches are actually partitions of R2-J.  Well, I think it's relatively straightforward from there, so I just wanna say proof is left to the reader cause I'm lazy and don't wanna work through the details.(編集済)
-[07:36]
-I'm like.... 80-85% confident in my argument.
-[07:39]
-If we can make it casual, not cut each other off, and manage to be friendly as we usually are, I'm happy to jump on a call or like in the hamham server or whatever is preferred.
-
-im sad and brad今日 07:39
-Nice!
-[07:40]
-I gotta work a bit today but I'll prob have time later today to work on this
