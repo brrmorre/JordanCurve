@@ -1,3 +1,5 @@
+Require Import Coq.Reals.Reals
+
 https://github.com/coq-community/topology/TopologicalSpaces.v
 Record TopologicalSpace : Type := {
   point_set : Type;
