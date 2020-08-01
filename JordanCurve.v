@@ -1,6 +1,6 @@
 Require Import Coq.Reals.Reals
 
-Unit Circle
+(*Unit Circle*)
 UnitCircle is the set of all elements of RealsHorizontal cartesian product RealsVertical such that square(CutHorizontal) plus square(CutVertical) equals /-inf,1/ . where CutHorizontal is an element of RealsHorizontal and CutVertical is an element of RealsVertical.
 
 https://github.com/coq-community/topology/TopologicalSpaces.v
